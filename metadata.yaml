@@ -1,0 +1,30 @@
+_repo: The-Beaked-Whales-of-the-Family-Ziphidaein-the-collection-of-the-united-states-museum..._44785
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44785-h/images/cover.jpg
+creator:
+  author:
+    agent_name: True, Frederick W. (Frederick William)
+    aliases:
+    - True, F. W. (Frederick William)
+    - True, Frederick William
+    birthdate: 1858
+    deathdate: 1914
+    gutenberg_agent_id: '42921'
+    url: http://www.gutenberg.org/2009/agents/42921
+description: ''
+gutenberg_issued: '2014-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44785'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beaked whales'
+- !lcc 'QL'
+title: "The Beaked Whales of the Family Ziphiidae\r\nAn Account of the Beaked Whales\
+  \ of the Family Ziphiidae in the Collection of the United States Museum..."
+url: http://www.gutenberg.org/ebooks/44785
